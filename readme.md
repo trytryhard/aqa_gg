@@ -15,7 +15,7 @@ main.py - точка-входа
 ## Исходный код
 src/ - директория с сорс-кодом  
 * src / compressing.py - модуль с реализация необходимой функции **compress_numbers**
-* src/list_preparation.py - вспомогательный скрипт  
+* src / list_preparation.py - вспомогательный скрипт  
 ## Тесты
 test/ - директория тестов
 * test / test_compress_number.py - тесты, относящиеся к необходимой функции  **compress_numbers** 
