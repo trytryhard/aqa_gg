@@ -3,7 +3,7 @@
 from src.list_preparation import list_inting
 
 
-def compress_numbers(input_val: list[int]) -> list[int]:
+def compress_numbers(input_val: list[int | float | str]) -> list[int]:
     """
     expect list of separated integer values,
     recheck inputted list,
