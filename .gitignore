@@ -1,6 +1,8 @@
 *
 !src/
 !src/**
+!test/
+!test/**
 !main.py
 !*.txt
 !*.md
